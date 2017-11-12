@@ -16,3 +16,5 @@ save(){
 }
 
 Question._All = []
+
+new Question("Where in the world is carmen sandiego?")
